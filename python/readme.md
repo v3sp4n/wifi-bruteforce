@@ -9,5 +9,6 @@ password list
   <li>empty input, the program will brute force the password from 00000000 to ~130000000</li>
 </ul>
 
-<i>When the program will make an attack - it will create a file with the name of the wi-fi with all the passwords that have been used.</i>
+When the program will make an attack - it will create a file with the name of the wi-fi with all the passwords that have been used.
+<br>
 If the attack is successful, a new file will be created with the password that matched the wi-fi(RESULT_TP-Link_wifi.txt).
